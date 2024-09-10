@@ -9,11 +9,7 @@ function sendNotification(email){
         }
       
     }
-    return 'Invalid Email'
-    
-    
-
-
+    return 'Invalid Email';
 
 }
 
